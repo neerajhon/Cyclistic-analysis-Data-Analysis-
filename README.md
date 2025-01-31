@@ -5,6 +5,9 @@
 
 # Data Source:
  The data used in this analysis is provided by Cyclistic and consists of trip records from October 2023 to September 2024.  The data includes information such as trip start and end times, locations, rider type (member or casual), and bike type.
+## 📂 Dataset
+🔗 **Download the dataset:** [cyclistic dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 
 # Analysis Objectives:
  1. Compare the ride patterns of members and casual riders.
